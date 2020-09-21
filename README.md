@@ -13,3 +13,8 @@ rideshare.py .gitignore readme
 ### Credits
 Thanks to udacity proffesors.
 
+### Final Notes
+This is the first change that i needed to complete the task
+
+
+
