@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+### Author of this code was EDUARDO COCCARO from SATX
+
 CITY_DATA = { 'chi': 'chicago.csv',
               'nyc': 'new_york_city.csv',
               'was': 'washington.csv' }
