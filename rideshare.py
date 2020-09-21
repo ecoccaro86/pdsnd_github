@@ -4,6 +4,8 @@ import numpy as np
 
 ### Author of this code was EDUARDO COCCARO from SATX
 
+### Code was made on ATOM and under the guidance of Udacity 
+
 CITY_DATA = { 'chi': 'chicago.csv',
               'nyc': 'new_york_city.csv',
               'was': 'washington.csv' }
