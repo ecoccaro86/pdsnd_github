@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Readme created on 9/12/2020
 
 ### Project Title
-Replace the Project Title
+Project # 3 for Git version control + rideshare
 
 ### Description
-Describe what your project is about and what it does
+Using the most important commands of GIT to finish the course
 
 ### Files used
-Include the files used
+rideshare.py .gitignore readme
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to udacity proffesors.
 
